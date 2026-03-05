@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "int18_2",
+    "module_label": "INT.18.2 - Rate & Market Data Synchronization",
+    "module_title": "Rate & Market Data Synchronization",
+    "module_slug": "rate_and_market_data_synchronization",
+    "app_code": "int18",
+    "app_label": "INT 18 - Financial Data Integrations",
+    "bundle_code": "int",
+    "source_md_path": "doc/rnd/plugs/int/int1.md"
+  },
+  {
+    "module_code": "int18_1",
+    "module_label": "INT.18.1 - Reference Feed Binding",
+    "module_title": "Reference Feed Binding",
+    "module_slug": "reference_feed_binding",
+    "app_code": "int18",
+    "app_label": "INT 18 - Financial Data Integrations",
+    "bundle_code": "int",
+    "source_md_path": "doc/rnd/plugs/int/int1.md"
+  },
+  {
+    "module_code": "int18_3",
+    "module_label": "INT.18.3 - Validation & Data Quality Logging",
+    "module_title": "Validation & Data Quality Logging",
+    "module_slug": "validation_and_data_quality_logging",
+    "app_code": "int18",
+    "app_label": "INT 18 - Financial Data Integrations",
+    "bundle_code": "int",
+    "source_md_path": "doc/rnd/plugs/int/int1.md"
+  }
+]
